@@ -172,6 +172,6 @@ import java.util.Scanner;
     */ 
     private static void log(Object aMsg){
         System.out.println(String.valueOf(aMsg));
-  }
+    }
   
 }
