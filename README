@@ -1,0 +1,17 @@
+ ABOUT
+ 
+ The spellcorrection class implements an application that 
+ offers a suggestion for a misspelled word.
+ 
+ BACKGROUND
+ 
+ This program uses Peter Norvig's list of word counts based on 
+ the noisy channel model of spelling. This model has a 80 to 90% accuracy 
+ rate for spelling correction.
+ 
+ 
+ TODO
+ 
+ - Computing error probability using a confusion matrix for single edit spelling errors.  
+ - Using word segmentation for more detailed spelling checks using sentence analysis.
+ 
